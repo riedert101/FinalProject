@@ -32,7 +32,7 @@ turtle.penup()
 # Create centipede and bugs
 centipede = turtle.Turtle()
 centipede.speed(0.5)
-centipede.shape('circle')  # just explain centi, speed, shape, color
+centipede.shape('circle')  
 centipede.color("brown")
 centipede.penup()
 centipede.goto(0, 0)
