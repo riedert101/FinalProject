@@ -13,7 +13,7 @@ turtle.bgcolor('green')
 # setting the size dimensions
 turtle.speed(5)
 turtle.pensize(4)
-turtle.penup()  # explain what this all means
+turtle.penup()  
 turtle.speed(5)
 turtle.pensize(4)
 turtle.penup()
